@@ -5,7 +5,11 @@
 #### __ repr _ _:
 
 - The __repr__ method  should be used to return a string representing the objectsuch that with that string you can re-create the object fully.
+
 #### __ getitem _ _:
 
--  in order to use for loops we need "__getitem__" methods
--  
+-  in order to use for loops we need "__getitem__" methods 
+
+#### __ len _ _:
+ 
+- is required so we can get the length of the emlements
